@@ -1,0 +1,36 @@
+ body{
+	background:#dcdada;
+}
+div{
+	width: 1000px;
+	margin-left: auto;
+	background: #f3f0f0;
+	margin-right: auto;
+	padding: 50px;
+}
+
+img{
+	max-width: 100%;
+}
+h1{
+	
+font-size: 50px;
+	
+margin-top: 0;
+}
+span{
+	
+color: #2d2a56;
+	
+text-transform: uppercase;
+	
+text-shadow: 5px 5px 6px;
+}
+p{
+	
+font-size: 28px;
+	
+color: #444343;
+	
+line-height: 1.5;
+}
